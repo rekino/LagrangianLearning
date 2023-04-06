@@ -1,3 +1,3 @@
-from .functions import EuclideanBumpFunction, LambdaTestFunction
+from .functions import EuclideanBumpFunction, WrapperTestFunction, AbstractTestFunction
 
 Psi = EuclideanBumpFunction()
